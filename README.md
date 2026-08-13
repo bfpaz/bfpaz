@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Eu sou Bruno Paz 👋
 
-<!--
-**bfpaz/bfpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Sistemas  
+🐍 Python | SQL | Oracle  
+🏥 Tecnologia aplicada à Saúde
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou profissional de Tecnologia da Informação com experiência em sistemas,
+bancos de dados, integrações e suporte técnico em ambientes hospitalares.
+
+Atualmente estou direcionando meus estudos em Dados,
+com foco em Python, SQL, APIs, bancos de dados e construção de pipelines.
+
+## 🛠️ Tecnologias
+
+- Python
+- SQL
+- Oracle
+- PostgreSQL
+- Git & GitHub
+- APIs REST
+- PL/SQL
+
+## 📚 Atualmente estudando
+
+- Engenharia de Dados
+- Python para dados
+- ETL / ELT
+- Bancos de dados
+- APIs
+
+## 📫 Contato
+
+[LinkedIn](www.linkedin.com/in/bruno-paz-04978123b)
