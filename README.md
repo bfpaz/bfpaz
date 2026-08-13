@@ -32,4 +32,4 @@ com foco em Python, SQL, APIs, bancos de dados e construção de pipelines.
 
 ## 📫 Contato
 
-[LinkedIn](www.linkedin.com/in/bruno-paz-04978123b)
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/bruno-paz-04978123b/)
